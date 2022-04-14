@@ -2,7 +2,7 @@
 
 # Authors
 
-Medhae Mohammed Mahmoud Khalil
+Medhat Mohammed Mahmoud Khalil
 
 ## Desciption
 
