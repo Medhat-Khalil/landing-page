@@ -6,7 +6,7 @@ Medhat Mohammed Mahmoud Khalil
 
 ## Desciption
 
-Responsine Landibg Page Project by Udacity
+Responsive Landing Page Project by Udacity
 
 ## Requirements
 
