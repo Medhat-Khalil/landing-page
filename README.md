@@ -18,5 +18,3 @@ Responsive Landing Page Project by Udacity
 1. Responsive navigation menu.
 2. while scrolling navigation item corresponding to the section in viewport is highlited.
 
-## link
- [Duck Duck Go](https://duckduckgo.com)
